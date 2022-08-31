@@ -1,0 +1,3 @@
+turnOnRelevanceSearch(false)               
+
+turnOnNewSearchUI(false)
